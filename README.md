@@ -30,6 +30,8 @@ The clarusway-workshop repository contains materials related to the IT trainings
 
   - [Javascript Session Class-notes](./javascript/class-notes/README.md)
 
+  - [Coding Challenges](./javascript/coding-challenges/README.md)
+
 - [React Workshop](./react/README.md)
 
   - [REACT Workshop Hands-on Trainings](./react/hands-on/README.md)
