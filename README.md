@@ -6,21 +6,13 @@ This private workshop repository contains projects, hands-on training, coding ch
 
 The clarusway-workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
 
-- [HTML Plus Workshop](./html/README.md)
+- [HTML&CSS Plus Workshop](./html-css/README.md)
 
-  - [HTML Plus Workshop Hands-on Trainings](./html/hands-on/README.md)
+  - [HTML Plus Workshop Hands-on Trainings](./html-css/hands-on/README.md)
 
-  - [HTML Plus Workshop Projects](./html/projects/README.md)
+  - [HTML Plus Workshop Projects](./html-css/projects/README.md)
 
-  - [HTML Plus Session Class-notes](./html/class-notes/README.md)
-
-- [CSS Pluss Workshop](./html/README.md)
-
-  - [CSS Plus Workshop Hands-on Trainings](./css/hands-on/README.md)
-
-  - [CSS Plus Workshop Projects](./css/projects/README.md)
-
-  - [CSS Plus Session Class-notes](./css/class-notes/README.md)
+  - [HTML Plus Session Class-notes](./html-css/class-notes/README.md)
 
 - [Javascript Workshop](./javascript/README.md)
 
