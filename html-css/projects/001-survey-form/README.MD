@@ -62,7 +62,7 @@ Build a Survey Form that is functionally similar to this: [Survey Form](https://
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
 	- Create a form (id="survey-form")
-	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:dont forget to use placeholder)
+	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:Don't forget to use placeholder)
 	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
 	- Create a division (class="box") for checkbox list
 	- Create a division (class="box") for radio buttons
