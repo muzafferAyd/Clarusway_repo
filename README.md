@@ -8,11 +8,11 @@ The clarusway-workshop repository contains materials related to the IT trainings
 
 - [HTML&CSS Plus Workshop](./html-css/README.md)
 
-  - [HTML Plus Workshop Hands-on Trainings](./html-css/hands-on/README.md)
+  - [HTML&CSS Plus Workshop Hands-on Trainings](./html-css/hands-on/README.md)
 
-  - [HTML Plus Workshop Projects](./html-css/projects/README.md)
+  - [HTML&CSS Plus Workshop Projects](./html-css/projects/README.md)
 
-  - [HTML Plus Session Class-notes](./html-css/class-notes/README.md)
+  - [HTML&CSS Plus Session Class-notes](./html-css/class-notes/README.md)
 
 - [Javascript Workshop](./javascript/README.md)
 
