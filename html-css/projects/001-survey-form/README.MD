@@ -70,6 +70,7 @@ Build a Survey Form that is functionally similar to this: [Survey Form](https://
 	- Create a button for id="submit" the form
 
 >>Part-2 CSS Structure
+
 	- Set a background and define font-color="white"
 	- Set container background color and margin
 	- Define "title" and "description" color-size-padding etc...
