@@ -70,7 +70,7 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 
 >>Part-2 CSS Structure
 
-	- Set a background and define font-color="white"
+	- Set a background and define font-color etc..
 	- Set container background color and margin
 	- Define others color-size-padding etc...
 	
