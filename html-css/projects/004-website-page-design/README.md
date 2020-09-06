@@ -76,7 +76,7 @@ Build a Landing that is functionally similar to this: [Website Page Design](http
 
 ## Resources
 
--  [Images](../images/Project_004_1.png)
+-  [Images](https://github.com/clarusway/clarusway-full-stack-6-20/tree/master/html-css/projects/004-website-page-design/img)
 
 
 ## Happy coding!
